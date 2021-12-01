@@ -2,7 +2,7 @@ package az.et.lesson00;
 
 import java.io.*;
 
-public class SimpleBufferCopyingApp {
+public class SimpleBufferedCopyingApp {
     public static void main(String[] args) throws IOException {
         File source = new File("/home/elvin/Prog/IdeaProjects/study/java-io-zero-to-advanced/src/main/java/az/et/lesson00/second.txt");
         File destination = new File("/home/elvin/Prog/IdeaProjects/study/java-io-zero-to-advanced/src/main/java/az/et/lesson00/second_copy.txt");
